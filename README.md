@@ -11,7 +11,7 @@
   search bar. Could refactor and use sections in my html to divide each element more evenly. Also had some issues with creating
   the sizing of my elements, and took some shortcuts to get it to "look good" 
   
---
+---
 
 Overall I think it works, definitely could use some improvements, and really is a copy of the more traditional Google site. I 
 decided to time myself on this, and basically got it down and pushed to a git repo within 2 hours. Will be interesting to see
